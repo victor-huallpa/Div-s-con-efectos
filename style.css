@@ -87,6 +87,7 @@ body {
 .general .box1:hover, .box2:hover, .box3:hover {
     height: 11em;
     width: 11em;
+    transition: .5s;
     background-color: var(--primary-color);
     box-shadow: 0 0 2em var(--primary-color), inset 0 0 1em var(--primary-color);
     
